@@ -13,4 +13,3 @@ let haystack = "sadbutsad",
   needle = "sad";
 
 console.log(strStr(haystack, needle));
-console.log(haystack.slice(3, needle.length + 3));
